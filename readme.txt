@@ -2,7 +2,7 @@
 /////////////////////// Introdução ///////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////
 
-Este é o reposotório de bibliotecas para componentes para seistemas embarcados, sinta-se livre para copiar e melhorar.
+Este é o reposotório de bibliotecas para componentes para sistemas embarcados, sinta-se livre para copiar e melhorar.
 Em caso de dúvidas, envie-me um e-mail em danppoltronieri@gmail.com
 Para componentes acesse ohmi.com.br
 
