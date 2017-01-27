@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LineController	KEYWORD1
+LineChecker	KEYWORD1
+LineRunner	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+check	KEYWORD2
+
+
+######################################
+# Constants (LITERAL1)
+#######################################
+NO_SENSOR_TRIGGERED 	LITERAL1
+LEFT_SENSOR_TRIGGERED 	LITERAL1
+RIGHT_SENSOR_TRIGGERED 	LITERAL1
+BOTH_SENSOR_TRIGGERED 	LITERAL1
+
+_left_pin	LITERAL1
+_right_pin	LITERAL1
+_left_trigger	LITERAL1
+_right_trigger	LITERAL1
+_left_sampler	LITERAL1
+_right_sampler	LITERAL1
+_sample_size	LITERAL1
+_current_sample	LITERAL1
+_max_left_sample	LITERAL1
+_max_right_sample	LITERAL1

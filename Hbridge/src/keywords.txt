@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HBridge	KEYWORD1
+SimpleHBridge	KEYWORD1
+AnalogHBridge	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+move	KEYWORD2
+stopMove	KEYWORD2
+startMove	KEYWORD2
+startMoveForward	KEYWORD2
+startMoveBackward	KEYWORD2
+moveNow	KEYWORD2
+stopMoveNow	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+KEY_NONE	LITERAL1
+
+MOVE_FORWARD	LITERAL1
+MOVE_BACKWARD	LITERAL1
+NOT_MOVE	LITERAL1
+
+_forward_pin	LITERAL1
+_backward_pin	LITERAL1
+_enable_pin	LITERAL1
+_previous_time	LITERAL1
+_current_time	LITERAL1
+_target_time	LITERAL1
+_current_direction	LITERAL1
+_target_direction	LITERAL1
+_target_speed	LITERAL1
+_current_speed	LITERAL1
+_delay_time	LITERAL1
