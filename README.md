@@ -1,6 +1,6 @@
 # Arduino Libraries
 
-[![banner](http://s3.amazonaws.com/img.iluria.com/user_layout_theme/2D8D1/logo.jpg?r=0.282825)](http://ohmi.com.br)
+![banner](http://s3.amazonaws.com/img.iluria.com/user_layout_theme/2D8D1/logo.jpg?r=0.282825)
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
