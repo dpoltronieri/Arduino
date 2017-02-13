@@ -21,7 +21,36 @@ English | Português
 - [Usage](#usage) | - [Uso](#Uso)
 - [Contribute](#contribute) | - [Contribuir](#Contribuir)
 - [License](#license) | - [Licensa](#Licensa)
--  | - <a target="_blank" href="http://ohmi.com.br">Onde Comprar</a>
+-  | - <a href="http://ohmi.com.br">Onde Comprar</a>
+
+## Background
+These libraries were initially created for the discipline Programming Languages III, lessioned by professor Cristian Pagot in late 2016 in Universidade Federal da Paraíba, Brazil. Currently it has continuous support.
+
+## Install
+More information can be found in https://www.arduino.cc/en/Guide/Libraries
+#### Windows
+Copy the desired library to `Libraries` inside the `Arduino` folder in `My Documents`.
+
+#### Linux
+Copy the desired library to `Libraries` inside the Arduino IDE instalation folder.
+
+#### Atom
+Copy the desired library to the `Lib` folder in the compilation directory.
+
+## Usage
+Follow each library **README**.
+
+## Contribute
+
+Feel free to copy and improve this library, if necessary, you may [report a problem](https://github.com/dpoltronieri/Arduino/issues/new). Doubts and suggestions, contact me at <danppoltronieri@gmail.com>.
+
+See [the contribute file](contribute.md)!
+
+PRs accepted.
+
+## License
+
+[MIT © Richard McRichface.](LICENSE)
 
 ## Histórico
 Essas bibliotecas foram criadas inicialmente para a disciplina de Linguagem de Programação III ministrada pelo professor Cristian Pagot no período 2016.1 da Universidade Federal da Paraíba. Atualmente ela possui suporte contínuo.
@@ -42,6 +71,8 @@ Siga o **README** de cada biblioteca.
 
 ## Contribuir
 Sinta-se livre para copiar e melhorar essa biblioteca, e se necessário [relatar um problema](https://github.com/dpoltronieri/Arduino/issues/new). Dúvidas e sugestões, me contate por mensagem ou por e-mail em <danppoltronieri@gmail.com>.
+
+Veja o [guia de contribuição](contribute.md)!
 
 ## Licensa
 [MIT © Richard McRichface.](LICENSE)
