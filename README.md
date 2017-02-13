@@ -1,7 +1,5 @@
 # Arduino Libraries
 
-<a href="http://ohmi.com.br"><img src="http://img.iluria.com/user_layout_theme/2D8D1/logo.jpg" /></a>
-
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 <a href="https://codeclimate.com/github/dpoltronieri/Arduino"><img src="https://codeclimate.com/github/dpoltronieri/Arduino/badges/gpa.svg" /></a>
 <a href="https://codeclimate.com/github/dpoltronieri/Arduino/coverage"><img src="https://codeclimate.com/github/dpoltronieri/Arduino/badges/coverage.svg" /></a>
@@ -23,6 +21,7 @@ English | Português
 - [Usage](#usage) | - [Uso](#Uso)
 - [Contribute](#contribute) | - [Contribuir](#Contribuir)
 - [License](#license) | - [Licensa](#Licensa)
+-  | - <a target="_blank" href="http://ohmi.com.br">Onde Comprar</a>
 
 ## Histórico
 Essas bibliotecas foram criadas inicialmente para a disciplina de Linguagem de Programação III ministrada pelo professor Cristian Pagot no período 2016.1 da Universidade Federal da Paraíba. Atualmente ela possui suporte contínuo.
@@ -45,4 +44,4 @@ Siga o **README** de cada biblioteca.
 Sinta-se livre para copiar e melhorar essa biblioteca, e se necessário [relatar um problema](https://github.com/dpoltronieri/Arduino/issues/new). Dúvidas e sugestões, me contate por mensagem ou por e-mail em <danppoltronieri@gmail.com>.
 
 ## Licensa
-[MIT © Richard McRichface.](../LICENSE)
+[MIT © Richard McRichface.](LICENSE)
