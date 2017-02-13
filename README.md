@@ -1,9 +1,8 @@
 # Arduino Libraries
 
-[![banner](http://img.iluria.com/user_layout_theme/2D8D1/logo.jpg)](http://ohmi.com.br)
+<a href="http://ohmi.com.br"><img src="http://img.iluria.com/user_layout_theme/2D8D1/logo.jpg" /></a>
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
 <a href="https://codeclimate.com/github/dpoltronieri/Arduino"><img src="https://codeclimate.com/github/dpoltronieri/Arduino/badges/gpa.svg" /></a>
 <a href="https://codeclimate.com/github/dpoltronieri/Arduino/coverage"><img src="https://codeclimate.com/github/dpoltronieri/Arduino/badges/coverage.svg" /></a>
 <a href="https://codeclimate.com/github/dpoltronieri/Arduino"><img src="https://codeclimate.com/github/dpoltronieri/Arduino/badges/issue_count.svg" /></a>
