@@ -9,7 +9,7 @@
 
 > Este é o repositório raiz das minhas Bibliotecas para Arduino.
 
-In this directory you can find the libraries `Hbridge`, used to controll **H Bridge** circuits and `LineController`, used to read **Line Reader** circuits, ready or *DIY* ones.
+In this directory you can find the libraries `Hbridge`, used to control **H Bridge** circuits and `LineController`, used to read **Line Reader** circuits, ready or *DIY* ones.
 
 Neste diretório se encontram as bibliotecas `Hbridge`, para controle de circuitos **Ponte H** e `LineController`, para leitura de circuitos de **Detecção de Linha**, podendo ser um pronto ou *DIY*.
 
@@ -39,6 +39,8 @@ Copy the desired library to the `Lib` folder in the compilation directory.
 
 ## Usage
 Follow each library **README**.
+- [Hbridge](/Hbridge/docs/README.md)
+- [LineController](/LineController/docs/README.md)
 
 ## Contribute
 
@@ -68,6 +70,7 @@ Copie a biblioteca desejada para a pasta `Lib` dentro do diretório de compilaç
 
 ## Uso
 Siga o **README** de cada biblioteca.
+[Hbridge](/Hbridge/docs/README)
 
 ## Contribuir
 Sinta-se livre para copiar e melhorar essa biblioteca, e se necessário [relatar um problema](https://github.com/dpoltronieri/Arduino/issues/new). Dúvidas e sugestões, me contate por mensagem ou por e-mail em <danppoltronieri@gmail.com>.
