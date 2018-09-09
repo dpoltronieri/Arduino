@@ -28,11 +28,10 @@ These libraries were initially created for the discipline Programming Languages 
 
 ## Install
 More information can be found in https://www.arduino.cc/en/Guide/Libraries
-#### Windows
-Copy the desired library to `Libraries` inside the `Arduino` folder in `My Documents`.
-
-#### Linux
-Copy the desired library to `Libraries` inside the Arduino IDE instalation folder.
+#### Arduino IDE
+1. Download the libraries: https://github.com/dpoltronieri/Arduino/archive/master.zip
+2. Unzip the downloaded file.
+3. (In the Arduino IDE) Sketch > Include Library > Add .ZIP Library > Select the library you want to install from the unzipped `Arduino-master` folder. > Open
 
 #### Atom
 Copy the desired library to the `Lib` folder in the compilation directory.
