@@ -38,7 +38,7 @@
          - "~/.platformio"
 
  env:
-     - PLATFORMIO_CI_SRC=LineController/examples/LineChecker.pde
+     - PLATFORMIO_CI_SRC=LineController/examples/LineChecker/LineChecker.pde
 #     - PLATFORMIO_CI_SRC=examples/file.ino
 #     - PLATFORMIO_CI_SRC=path/to/test/directory
 
